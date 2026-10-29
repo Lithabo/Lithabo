@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Lithabo
+# 👋 Hi, I'm Thabo Molife
 
 ### 💻 Aspiring Full-Stack Developer
 ### 🤖 AI-Assisted Development | Web Applications | Software Solutions
