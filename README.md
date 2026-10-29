@@ -1,66 +1,111 @@
-## Hi there 👋
 
-<!--
-**Lithabo/Lithabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Lithabo
 
-- Hi, I'm Lithabo 👋
+### 💻 Aspiring Full-Stack Developer
+### 🤖 AI-Assisted Development | Web Applications | Software Solutions
 
-Aspiring Full-Stack Developer | AI-Assisted Software Development | IT Professional
+**Building practical software that solves real-world problems.**
 
-Welcome to my GitHub portfolio!
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Lithabo)
 
-I'm a passionate technology enthusiast and aspiring Full-Stack Developer based in South Africa, with a Diploma in Information Technology and 13 years of professional experience in a large municipal organization.
+</div>
 
-I focus on developing practical, modern web applications and exploring how artificial intelligence can accelerate software development and solve real-world business problems.
+---
 
-💻 Technical Skills
+## 👨‍💻 About Me
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Exploring Node.js, APIs, and server-side development
-- Development Tools: Visual Studio Code, Git, GitHub
-- AI-Assisted Development: Using AI tools to generate, understand, improve, and troubleshoot code
-- Currently Learning: Full-stack architecture, database integration, authentication, and deployment
+I'm an aspiring Full-Stack Developer from South Africa with a Diploma in Information Technology and 13 years of professional experience in municipal administration.
 
-🚀 Featured Projects
+I'm passionate about building modern websites, business applications, and AI-powered software.
 
-🛒 LiboShop — E-Commerce Website
+I use AI-assisted development tools alongside hands-on coding to design, test, troubleshoot, and improve my projects.
 
-An online shopping website project focused on providing a modern digital shopping experience.
+- 🔭 Currently working on web development projects
+- 🌱 Learning backend development and databases
+- 🤖 Exploring AI integration and automation
+- 🎯 Goal: Become a professional Full-Stack Developer
+- 💼 Open to junior development opportunities
 
-Technologies: JavaScript, HTML, CSS
+---
 
-"View LiboShop Repository" (https://github.com/Lithabo/liboshop)
+## 🛠️ Technologies & Tools
 
-🛍️ LiShop — Web Development Project
+### Frontend Development
 
-A web development project used to experiment with website functionality, frontend design, and programming concepts.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-"Explore My Repositories" (https://github.com/Lithabo?tab=repositories)
+### Development Tools
 
-🎯 Professional Goals
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-My ambition is to become a skilled Full-Stack Developer capable of designing, developing, testing, and deploying secure, scalable applications.
+### Currently Learning
 
-I am particularly interested in:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Full-stack web development
-- Artificial intelligence integration
-- Business software solutions
-- Cloud technologies
-- Modern user interface design
-- Software automation
+---
 
-🤝 Open to Opportunities
+## 🚀 Featured Projects
 
-I'm interested in junior developer positions, internships, collaborative projects, and opportunities to grow my software engineering skills.
+### 🛒 LiboShop — E-Commerce Website
 
-I value continuous learning, problem-solving, accountability, and delivering practical solutions.
+A web development project focused on creating a modern online shopping experience.
 
-📫 Connect With Me
+**Technologies:** HTML, CSS, JavaScript
 
-GitHub: https://github.com/Lithabo
+🔗 [View Repository](https://github.com/Lithabo/liboshop)
 
-Building practical software, one project at a time.
--->
+### 🛍️ LiShop — Website Project
+
+A development project for practicing frontend programming, website structure, and functionality.
+
+🔗 [View My Repositories](https://github.com/Lithabo?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lithabo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithabo&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎯 Career Objectives
+
+I'm working toward becoming a Full-Stack Developer who can:
+
+- Develop responsive web applications
+- Build and integrate backend APIs
+- Work with relational databases
+- Implement secure authentication
+- Deploy and maintain applications
+- Apply AI to practical business challenges
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to junior developer opportunities, software collaborations, and learning from experienced developers.
+
+🌐 **GitHub:** https://github.com/Lithabo
+
+---
+
+<div align="center">
+
+### 🚀 Learn. Build. Improve. Repeat.
+
+*Every project is another step toward becoming a better developer.*
+
+</div>
