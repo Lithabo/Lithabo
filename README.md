@@ -128,7 +128,8 @@ I review, adapt and test AI-assisted code while developing my understanding of a
 
 ---
 
-## 🚀 Featured Software Projects### 💳 [LiboLend1](https://github.com/Lithabo/LiboLend1)
+## 🚀 Featured Software Projects### 💳
+[LiboLend1](https://github.com/Lithabo/LiboLend1)
 
 **Full-Stack FinTech Application | Digital Lending & Loan Management**
 
