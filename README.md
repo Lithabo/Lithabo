@@ -160,7 +160,32 @@ A South African digital lending platform developed under **LiboTech**, designed 
 
 🌐 **[View Live Demo](https://libolend-demo.onrender.com/)**
 
-💻 **[View Source Code](https://github.com/Lithabo/LiboLend1)**---
+💻 **[View Source Code](https://github.com/Lithabo/LiboLend1)**
+--=
+
+### 🏢 LiboTech Enterprise — Business Management Platform
+
+**Next.js | TypeScript | PostgreSQL | Prisma**
+
+An enterprise application project developed to explore business management and digital operational workflows.
+
+**Development areas:**
+- User roles and authenticated access
+- Administrative and client dashboards
+- Quotations and invoice management
+- PDF document generation
+- PostgreSQL data management
+- Deployment configuration
+
+**Engineering experience:** TypeScript, Next.js App Router, Prisma, relational database integration, authentication workflows, PDF generation and deployment troubleshooting.
+
+**Website:** [LiboTech Enterprise](https://libotech-enterprise.vercel.app)
+
+*Repository source code may be private.*
+
+
+
+---
 
 ### 🎓 [UmzaniEdu — Educational Learning Platform](https://github.com/Lithabo/UmzansiEdu)
 
@@ -186,30 +211,6 @@ A South African learning platform focused on student access to subjects and less
 [**View Source Code →**](https://github.com/Lithabo/UmzansiEdu)
 
 ---
-
-### 🛒 [LiboShop — E-Commerce Application](https://github.com/Lithabo/liboshop)
-
-**Next.js Storefront | E-Commerce Demonstration**
-
-A working development storefront illustrating common online shopping workflows.
-
-**Implemented capabilities:**
-- Product API
-- Shopping cart
-- Checkout form
-- Demonstration order submission
-- Local JSON order storage
-
-**Technology stack:** Next.js 15, React 19 and JavaScript.
-
-**Engineering experience:** React development, Next.js application structure, frontend/backend integration, shopping cart workflows and local data persistence.
-
-**Note:** This is a demonstration storefront. Real payments are not processed.
-
-[**View Source Code →**](https://github.com/Lithabo/liboshop)
-
----
-
 ### 🚗 [AutoBid SA — Vehicle Marketplace & Auction Platform](https://github.com/Lithabo/autobid-sa)
 
 **Automotive Marketplace | Software Development Project**
@@ -228,29 +229,6 @@ A LiboTech project focused on vehicle listings, digital marketplace workflows an
 **Status:** Ongoing development. Individual features should be evaluated against the repository and working demonstration.
 
 [**Explore Repository →**](https://github.com/Lithabo/autobid-sa)
-
----
-
-### 🏢 LiboTech Enterprise — Business Management Platform
-
-**Next.js | TypeScript | PostgreSQL | Prisma**
-
-An enterprise application project developed to explore business management and digital operational workflows.
-
-**Development areas:**
-- User roles and authenticated access
-- Administrative and client dashboards
-- Quotations and invoice management
-- PDF document generation
-- PostgreSQL data management
-- Deployment configuration
-
-**Engineering experience:** TypeScript, Next.js App Router, Prisma, relational database integration, authentication workflows, PDF generation and deployment troubleshooting.
-
-**Website:** [LiboTech Enterprise](https://libotech-enterprise.vercel.app)
-
-*Repository source code may be private.*
-
 ---
 
 ## 🧪 Additional Projects & Prototypes
