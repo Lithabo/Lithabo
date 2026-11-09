@@ -128,29 +128,38 @@ I review, adapt and test AI-assisted code while developing my understanding of a
 
 ---
 
-## 🚀 Featured Software Projects
+## 🚀 Featured Software Projects### 💳 [LiboLend1](https://github.com/Lithabo/LiboLend1)
 
-### 💳 [LiboLend — Digital Lending & Loan Management](https://github.com/Lithabo/LiboLend1)
+**Full-Stack FinTech Application | Digital Lending & Loan Management**
 
-**Full-Stack Financial Application | Development Demonstration**
-
-A digital lending platform with customer and administrator experiences.
+A South African digital lending platform developed under **LiboTech**, designed to simplify loan applications, customer management and administrative lending workflows through a secure web-based system.
 
 **Implemented capabilities:**
-- Customer registration and login
-- Loan application submission and tracking
-- Configurable demonstration loan calculator
-- Administrative loan review and status management
-- Loan approval and decline workflows
-- Decision records and audit history
 
-**Technology stack:** JavaScript, Node.js, Express.js, SQLite, JWT, bcryptjs, HTML5 and CSS3.
+- Customer registration and secure authentication
+- Customer and administrator dashboards
+- Online loan application submission
+- Loan application status tracking
+- Loan calculator with configurable interest rates and fees
+- Administrative loan review, approval and decline workflows
+- Role-based access controls and protected API endpoints
+- Loan decision history and administrative audit records
+- REST API functionality
+- Relational database integration
+- Password hashing and JWT authentication
+- Cloud deployment on Render
 
-**Engineering experience:** REST API development, authentication, authorization, relational databases, business workflows and administrative dashboards.
+**Technology stack:** JavaScript, Node.js, Express.js, HTML5, CSS3, SQLite, better-sqlite3, REST APIs, JWT, bcryptjs, Git, GitHub and Render.
 
-[**View Source Code →**](https://github.com/Lithabo/LiboLend1)
+**Engineering experience:** Full-stack application development, financial software workflows, REST API development, relational database design, secure authentication, role-based authorisation, business process automation, cloud deployment, debugging and version control.
 
----
+**Planned:** PostgreSQL migration, payment gateway integration, repayment schedules, customer payment histories, enhanced financial analytics and additional production security improvements.
+
+**Project status:** Functional development and demonstration application. Not a licensed or production-ready lending service.
+
+🌐 **[View Live Demo](https://libolend-demo.onrender.com/)**
+
+💻 **[View Source Code](https://github.com/Lithabo/LiboLend1)**---
 
 ### 🎓 [UmzaniEdu — Educational Learning Platform](https://github.com/Lithabo/UmzansiEdu)
 
